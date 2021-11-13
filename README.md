@@ -9,4 +9,4 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=AlperenKuru&show_icons=true&theme=blue)
 
 
-<img alt="ViewCount" height="6259335496593425" src="https://views.whatilearened.today/views/github/alperenkuru/alperenkuru.svg" />
+<img alt="ViewCount" height="25" src="https://views.whatilearened.today/views/github/alperenkuru/alperenkuru.svg" />
