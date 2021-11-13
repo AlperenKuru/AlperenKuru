@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on Flutter
+- ⌨️ I'm improving myself in Java
 - 🌱 I’m currently learning Dart
-- 📫 How to reach me: https://t.me/izelkayacik
-
+- 📫 How to reach me: alperenkuru83@gmail.com
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=AlperenKuru&show_icons=true&theme=blue)
 
