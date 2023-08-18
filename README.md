@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Java
 - ⌨️ I'm improving myself in Kotlin
-- 🌱 I’m currently learning Xamarin
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: alperenkuru83@gmail.com
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=AlperenKuru&show_icons=true&theme=blue)
